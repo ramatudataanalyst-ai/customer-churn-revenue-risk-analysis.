@@ -91,5 +91,6 @@ print("\nAnalysis Complete. Charts saved in the 'images/' folder.")
 **Ramatu Sulemana**  
 Data Analyst  
 [LinkedIn – www.linkedin.com/in/ramatu-sulemana-a51117376]  
-[GitHub – customer-churn-revenue-risk-analysis]
+[GitHub – https://github.com/ramatudataanalyst-ai/customer-churn-revenue-risk-analysis./tree/main]
+
 
